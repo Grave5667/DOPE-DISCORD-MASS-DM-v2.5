@@ -19,7 +19,7 @@ Discord: https://discord.gg/WGb8KSkbWw
 * discord.py
 
 
-<p align="center">
+
 ## How to use
 1. Run the file `main.py` it will first ask you for a discord bot token here it is very important in the discord dev portal to check on member indents or the bot will not work properbly
   <p align="center">
